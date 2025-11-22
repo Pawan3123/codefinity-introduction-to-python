@@ -1,5 +1,5 @@
-
-
+item_name='Banana'
+item_price=0.50
 
 # Testing
 print("Item : ", item_name)
